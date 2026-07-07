@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/byiringiro-aime-thierry/node-js#readme",
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "ws": "^8.21.0"
   }
 }
